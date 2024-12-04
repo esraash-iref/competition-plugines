@@ -1,0 +1,14 @@
+#### animate CDN ######## 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+
+class="animate__animated animate__bounce  animate__delay-2s animate__slow animate__repeat-2"
+
+###### wow #####
+ data-wow-duration="2s" data-wow-delay="5s"
+ data-wow-offset="10"  data-wow-iteration="10"
+                   
+######## object #######
+new WOW().init();
